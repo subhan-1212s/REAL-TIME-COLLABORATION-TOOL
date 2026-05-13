@@ -2,7 +2,9 @@
 
 SyncSpace is a premium, real-time collaboration platform that combines a shared whiteboard and a synchronized document editor into one seamless workspace. Built with Socket.io and React, it enables teams to draw, write, and ideate together in real-time.
 
-![SyncSpace Preview](https://via.placeholder.com/1200x600/020617/6366f1?text=SyncSpace+Collaborative+Workspace)
+![SyncSpace Preview](https://raw.githubusercontent.com/subhan-1212s/REAL-TIME-COLLABORATION-TOOL/main/client/public/screenshot.png)
+
+*Note: Replace this image with your own screenshot of the running app!*
 
 ## 🚀 Features
 
